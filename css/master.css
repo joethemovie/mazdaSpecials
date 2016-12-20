@@ -54,9 +54,9 @@ font-size: 25px;
 }
 a {
   color: #ffffff;
-  background-color: #20609F;
+  background-color: #1476CA;
   font-size: 18px;
-  padding: 10px 76px;
+  padding: 10px 100px;
   top: 260px;
   left:10px;
   position: absolute;
@@ -64,7 +64,7 @@ a {
   z-index: 8888;
 }
 a:hover {
-  background-color: #194d81;
+  background-color: #1865a8;
 }
 #slideshow {
     margin: 50px 0;
